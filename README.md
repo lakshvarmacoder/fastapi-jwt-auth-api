@@ -50,7 +50,7 @@ FastAPi/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/lakshvarmacoder/fastapi-jwt-auth-api.git
    cd FastAPi
    ```
 
